@@ -1,0 +1,49 @@
+# .gitignore for ASP.NET Core and React
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+**/bin/
+**/obj/
+wwwroot/lib/
+Backend/wwwroot/uploads/
+Backend/scripts/
+Backend/build_issues.txt
+**/*.db
+**/*.sqlite
+**/*.sqlite3
+
+# User-specific files
+*.log
+**/.env
+**/.env.*
+.venv/
+venv/
+
+# Node
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build outputs
+dist/
+build/
+**/dist/
+**/build/
+
+# Local archives, diagnostics, and test artifacts
+*.zip
+*.pdf
+/temp_*
+Frontend/tools/
+
+# OS files
+.DS_Store
+Thumbs.db

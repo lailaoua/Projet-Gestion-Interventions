@@ -1,0 +1,55 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Building -->
+  <g id="building">
+    <!-- Left building -->
+    <rect x="80" y="100" width="50" height="120" fill="#17a2b8" stroke="#0d6b84" stroke-width="2"/>
+    <!-- Windows left building -->
+    <rect x="90" y="110" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="108" y="110" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="90" y="130" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="108" y="130" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="90" y="150" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="108" y="150" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="90" y="170" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="108" y="170" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    
+    <!-- Center building (taller) -->
+    <rect x="150" y="60" width="100" height="160" fill="#17a2b8" stroke="#0d6b84" stroke-width="2"/>
+    <!-- Windows center building -->
+    <rect x="165" y="75" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="190" y="75" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="215" y="75" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="165" y="100" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="190" y="100" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="215" y="100" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="165" y="125" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="190" y="125" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="215" y="125" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="165" y="150" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="190" y="150" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="215" y="150" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="165" y="175" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="190" y="175" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="215" y="175" width="15" height="15" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    
+    <!-- Right building -->
+    <rect x="270" y="100" width="50" height="120" fill="#17a2b8" stroke="#0d6b84" stroke-width="2"/>
+    <!-- Windows right building -->
+    <rect x="280" y="110" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="298" y="110" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="280" y="130" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="298" y="130" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="280" y="150" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="298" y="150" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="280" y="170" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    <rect x="298" y="170" width="12" height="12" fill="#ffffff" stroke="#0d6b84" stroke-width="1"/>
+    
+    <!-- Base line -->
+    <line x1="60" y1="220" x2="340" y2="220" stroke="#17a2b8" stroke-width="4"/>
+  </g>
+  
+  <!-- Text: NIDAL INFO -->
+  <text x="200" y="270" font-family="Arial, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="#17a2b8">
+    NIDAL INFO
+  </text>
+</svg>
